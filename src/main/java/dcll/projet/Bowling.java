@@ -6,7 +6,7 @@ package dcll.projet;
 public class Bowling {
 
 
-    private int score;  // score du type qui joue et qu'est pas forcément très fort
+    private int score;  // score du type qui joue et qu'est pas forcément très fort (jbey: +1)
 
     public Bowling() {
         score = 0;
